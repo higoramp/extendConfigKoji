@@ -1,0 +1,30 @@
+{
+  "name": "@higoramp/extendconfigkoji",
+  "version": "1.0.0",
+  "description": "A package to extend the funcionality of koji-vcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higoramp/extendConfigKoji.git"
+  },
+  "keywords": [
+    "koji",
+    "vcc"
+  ],
+  "bin": {
+    "extendconfigkoji": "./index.js"
+  },
+  "author": "Higoramp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higoramp/extendConfigKoji/issues"
+  },
+  "homepage": "https://github.com/higoramp/extendConfigKoji#readme",
+  "dependencies": {
+    "chokidar": "^3.0.2"
+  },
+  "devDependencies": {}
+}
